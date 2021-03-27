@@ -1,14 +1,11 @@
 {
   "pages": [
-    "pages/welcome/welcome"
+    "pages/welcome/welcome",
+    "pages/posts/posts"
   ],
+  "entryPagePath": "pages/welcome/welcome",
   "window": {
-    "navigationBarBackgroundColor": "#b3d4db",
-    "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "",
-    "backgroundColor": "#eeeeee",
-    "backgroundTextStyle": "light",
-    "enablePullDownRefresh": false
+    "navigationBarBackgroundColor": "#c22a1e"
   },
   "sitemapLocation": "sitemap36.json"
 }
